@@ -1,0 +1,4 @@
+const accountId=222222;
+let accountEmail="rao@gmail.com";
+var accountPassword="7777777";
+accountCity="Faisalabad"
